@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ef_module1_fluent.Tests/ef_module1_fluent.Tests.csproj" />
+  <Project Path="ef_module1_fluent/ef_module1_fluent.csproj" />
+</Solution>
